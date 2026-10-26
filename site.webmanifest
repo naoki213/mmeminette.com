@@ -1,0 +1,15 @@
+{
+  "name": "株式会社M.Me.Minette",
+  "short_name": "M.Me.Minette",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#a66d18",
+  "background_color": "#fffaf3",
+  "display": "standalone",
+  "start_url": "."
+}
